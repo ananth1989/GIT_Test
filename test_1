@@ -1,2 +1,6 @@
 test 1 file
+<<<<<<< HEAD
 Line 2 added local
+=======
+line added at remote
+>>>>>>> 56ff5b4e4a75efec992f3bdb181eb0d5c9783dda
